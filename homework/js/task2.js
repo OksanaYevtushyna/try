@@ -20,5 +20,8 @@ else if (a + b > c && a + c > b && b + c > a) {
         console.log('Scalene triangle');
     }
 }
+else {
+    console.log('Triangle doesn’t exist');
+}
 
 
